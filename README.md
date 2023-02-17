@@ -1,7 +1,8 @@
 # AI-for-drug-discovery
 Ho Lab collection of resources on AI for drug discovery
+- curated by Angela Yin
 
-AI for Drug Discovery in a Nutshell
+## AI for drug discovery in a nutshell
 
 | Rating | Title | 	Category/Description |	Link |
 | ------------- | ------------- |------------- | ------------- |
