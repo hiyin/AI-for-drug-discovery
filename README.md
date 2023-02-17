@@ -3,7 +3,8 @@ Ho Lab collection of resources on AI for drug discovery
 
 AI for Drug Discovery in a Nutshell
 
-| Recommendation /5	| Title	Category/Description |	Link
+| Recommendation /5	| Title	Category/Description |	Link |
+| ------------- | ------------- |------------- |
 |🌟🌟🌟🌟🌟|	Insilico Medicine出品 - 2022 AI制药行业观察报告 / Presentation	|Industry report (unique and rare) with full  technical/research highlights and explanation	| Report: shorturl.at/oY124 / Presentation: https://www.leiphone.com/category/healthai/7aSh0py4u5NAt2ov.html |
 |🌟🌟🌟🌟|	From Xuegong Lab - 2022人工智能白皮书-人工智能与药物发现	|	shorturl.at/zAGOX & shorturl.at/qrCKZ |
 |🌟🌟🌟🌟|	DeepPharma - Landscape  Overview: Artificial Intelligence for Drug Discovery|	Report collections with industry insights	|Download from https://www.deep-pharma.tech/ or view at shorturl.at/cwP04 |
